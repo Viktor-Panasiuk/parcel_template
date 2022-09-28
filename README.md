@@ -1,4 +1,43 @@
-**Read in other languages: [Русский](README.md), [Polski](README.pl.md).**
+# URL документація із командного проекта
+
+1.  https://www.youtube.com/watch?v=vU9FtJIm590 як ставити і налаштовувати
+    Parcel і деплоїти на GitHUB. Омнови командної роботи
+
+2.  https://docs.google.com/document/d/1SitE5vyqHtShflt1WOhuiwaektmVXfiQaLBsgJbBHSY/edit#heading=h.17dp8vu
+    текстова інструкція
+
+======================================================================================================================
+Проект HTML/CSS 1.Скринкаст по командній роботі на HTML+CSS:
+https://youtu.be/4NSXg7J54oY 1.1 Скринкаст по плануванню проєкта
+https://youtu.be/vU9FtJIm590 2.Презентація:
+https://docs.google.com/presentation/d/1_xJNGy2_j2nQKGxvuieyspxtNwS57U2BPadAvcOT2lg/edit#slide=id.g1213dc4fa4d_0_4712
+3.Проект по HTML+CSS (інструкція для студентів):
+https://docs.google.com/document/d/1SitE5vyqHtShflt1WOhuiwaektmVXfiQaLBsgJbBHSY/edit#heading=h.17dp8vu
+4.Інструкція по плануванню на HTML+CSS (менторам+студентам)
+https://docs.google.com/document/d/17eLHSGiC7Q4AGPSJl1s7lSuIkExGGHO5r30N61AM6Vk/edit
+5.Додаток для планування: https://www.scrumpoker-online.org/en/ 6.Командна
+робота з Git
+https://docs.google.com/document/d/1H79qCZbQnz5GK4ds9nolY4HGZqqcyqCR32MJ1UiRxyQ/edit
+7.Скринкаст по командній роботі з git
+https://www.youtube.com/watch?v=sxeW_z5-sq4 8.Інструкція по роботі з git в
+терміналі
+https://docs.google.com/document/d/1jRgH4AD_l535xXqZjGXX1YLFq3qiAMILD-d4w0-c54w/edit
+8.1.Інструкція по работі з git в терміналі(скрінкаст)
+https://www.youtube.com/watch?v=wFY5HVuQBgw 9.Інструкція по створенню Trello та
+роботі в ньому (dev)
+https://docs.google.com/document/d/1PvwscZhKhXM_ow0_RMJEWJ2xgtsEb65lLeGG3mEzFMs/edit
+10.Відео по роботі з trello https://www.youtube.com/watch?v=egaM6SR8mwk
+11.TECH-Критерії прийняття проекту по HTML+CSS
+https://docs.google.com/document/d/1eyN71cunwzcdtPcVYcdTqYyhv_QGdfnSiiqZEToyVxc/edit
+12.Чек лист по презентації
+https://docs.google.com/document/d/1DwxZLnk9-ubphYQiPFV0eZT23UFffyA41tCm3PDislU/edit
+13.Шаблон презентації проекта
+https://docs.google.com/presentation/d/1jmqIu26at0E1A8mg9eL7rPhPQVDj4NVHNMayqjeQuDo/edit#slide=id.g1213a43354d_0_694
+Посилання на ТЗ
+https://docs.google.com/document/d/1RF3LSuIGe_bOFrusBger_BDbBcYDiHEx-eSnjNN4Syw/edit
+Посилання на макет
+https://www.figma.com/file/q1ByTQ3xVmyaC2wphwAeRs/IceCream-(Copy)-(Copy)-(Copy)?node-id=0%3A1
+======================================================================================================================
 
 # Parcel template
 
